@@ -142,7 +142,7 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_13qc077",
+        "service_utv4j93",
         "template_tfm2dgf",
         form.current,
         "klkFjFH1M9A-PKrw9"
